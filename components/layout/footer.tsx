@@ -13,9 +13,9 @@ export function Footer() {
               <span className="text-2xl font-bold font-amiri">فندق العندليب</span>
             </div>
             <p className="text-gray-400">
-              استمتع بالفخامة والراحة في فندق القصر الكبير. عطلتك المثالية في انتظارك.
+              استمتع بالفخامة والراحة في فندق العندليب. عطلتك المثالية في انتظارك.
             </p>
-            <div className="flex space-x-4">
+            <div className="flex gap-3">
               <Facebook className="h-5 w-5 text-gray-400 hover:text-amber-600 cursor-pointer" />
               <Twitter className="h-5 w-5 text-gray-400 hover:text-amber-600 cursor-pointer" />
               <Instagram className="h-5 w-5 text-gray-400 hover:text-amber-600 cursor-pointer" />

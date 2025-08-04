@@ -19,7 +19,7 @@ const testimonials = [
   },
   {
     name: 'فاطمة الزهراني',
-    location: 'جدة، السعودية',
+    location: 'العقبة، الأردن',
     rating: 5,
     text: 'هذا الفندق جوهرة حقيقية. الاهتمام بالتفاصيل مذهل، وخدمات السبا متميزة. لا أطيق الانتظار للعودة مرة أخرى لعطلة مريحة.',
     image: 'https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=150'
