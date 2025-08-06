@@ -51,7 +51,7 @@ export function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-2">
                 <MapPin className="h-4 w-4 text-amber-600" />
-                <span className="text-gray-400 text-sm">السوق المجمع القديم , شارع السعاده</span>
+                <span className="text-gray-400 text-sm">عمان، البوليفارد شارع 1722</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-amber-600" />
@@ -59,7 +59,7 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-amber-600" />
-                <span className="text-gray-400 text-sm">info@alandalib.com</span>
+                <span className="text-gray-400 text-sm">info@example.com</span>
               </div>
             </div>
           </div>

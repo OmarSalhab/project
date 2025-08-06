@@ -75,8 +75,8 @@ export default function ContactPage() {
                   <div>
                     <h4 className="font-semibold text-lg">العنوان</h4>
                     <p className="text-gray-600">
-                      شارع السعادة <br />
-                      وسط السوق القديم، الزرقاء <br />
+                      شارع 1766<br />
+                      البوليفارد، عمان<br />
                       المملكة الأردنيه الهاشميه
                     </p>
                   </div>
@@ -99,9 +99,9 @@ export default function ContactPage() {
                   <div>
                     <h4 className="font-semibold text-lg">البريد الإلكتروني</h4>
                     <p className="text-gray-600">
-                      info@alandalib.com<br />
-                      reservations@alandalib.com<br />
-                      events@alandalib.com
+                      info@______.com<br />
+                      reservations@______.com<br />
+                      events@______.com
                     </p>
                   </div>
                 </div>
