@@ -10,10 +10,10 @@ export function Footer() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Crown className="h-8 w-8 text-amber-600" />
-              <span className="text-2xl font-bold font-amiri">فندق العندليب</span>
+              <span className="text-2xl font-bold font-amiri">فندق ______</span>
             </div>
             <p className="text-gray-400">
-              استمتع بالفخامة والراحة في فندق العندليب. عطلتك المثالية في انتظارك.
+              استمتع بالفخامة والراحة في فندق ______. عطلتك المثالية في انتظارك.
             </p>
             <div className="flex gap-3">
               <Facebook className="h-5 w-5 text-gray-400 hover:text-amber-600 cursor-pointer" />
@@ -66,7 +66,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; ٢٠٢٤ فندق العندليب. جميع الحقوق محفوظة.</p>
+          <p>&copy; ٢٠٢٤ فندق ______. جميع الحقوق محفوظة.</p>
         </div>
       </div>
     </footer>

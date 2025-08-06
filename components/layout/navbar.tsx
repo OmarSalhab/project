@@ -23,7 +23,7 @@ export function Navbar() {
           <Link href="/" className="flex items-center gap-2">
             <Crown className="h-8 w-8 text-amber-600" />
             <span className="text-2xl font-bold font-playfair text-gray-900">
-              فندق العندليب
+              فندق ______
             </span>
           </Link>
 

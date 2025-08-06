@@ -8,7 +8,7 @@ export function HeroSection() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=1920)',
+          backgroundImage: 'url(https://www.sheridan.com.au/media/catalog/product/cache/1a5f5d73a92ee4b99248fb53f4969f03/1/0/1000tc-hotel-luxury-sheet-set-white-97723.jpg)',
         }}
       >
         <div className="absolute inset-0 bg-black/40" />
@@ -17,7 +17,7 @@ export function HeroSection() {
       <div className="relative container mx-auto px-4 text-center text-white">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 font-amiri">
           أهلاً وسهلاً بكم في
-          <span className="block text-amber-400">فندق العندليب</span>
+          <span className="block text-amber-400">فندق ______</span>
         </h1>
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90 leading-relaxed">
           استمتع بفخامة لا مثيل لها وخدمة استثنائية ولحظات لا تُنسى 
